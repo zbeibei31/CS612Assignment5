@@ -17,5 +17,5 @@ Step 5
 open a browser and type the local host with portal 5000.
 
 
-Video link:
+Video link: https://screencast-o-matic.com/watch/cYhjqHgt3a
 
